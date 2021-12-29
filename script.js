@@ -5,7 +5,7 @@ apiKey: "AIzaSyApQhIWMO8zNFnstSFsHnB0T9-GzhkMha0",
             databaseURL: "https://website-80fc1-default-rtdb.firebaseio.com",
             projectId: "website-80fc1",
             storageBucket: "website-80fc1.appspot.com",
-            messagingSenderId: "712562391435",
+            messagingSenderId: "712562391435"
 };
 firebase.initializeApp(config);
 
