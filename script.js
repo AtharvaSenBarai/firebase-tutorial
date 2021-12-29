@@ -1,11 +1,11 @@
 // Initialize Firebase
 var config = {
-  apiKey: "AIzaSyBICyFq4GPWKBhCNe46-1MCsDNbfoymkU0",
-  authDomain: "amazing-project-95629.firebaseapp.com",
-  databaseURL: "https://amazing-project-95629.firebaseio.com",
-  projectId: "amazing-project-95629",
-  storageBucket: "amazing-project-95629.appspot.com",
-  messagingSenderId: "42388728204"
+apiKey: "AIzaSyApQhIWMO8zNFnstSFsHnB0T9-GzhkMha0",
+            authDomain: "https://atharvasenbarai.github.io/",
+            databaseURL: "https://website-80fc1-default-rtdb.firebaseio.com",
+            projectId: "website-80fc1",
+            storageBucket: "website-80fc1.appspot.com",
+            messagingSenderId: "712562391435",
 };
 firebase.initializeApp(config);
 
